@@ -1,0 +1,20 @@
+{
+  "name": "houseclean",
+  "version": "1.0.57",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "houseclean": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs": "*",
+    "glob": "^7.2.0",
+    "path": "^0.12.7"
+  }
+}
